@@ -1,0 +1,25 @@
+.button {
+    background-color: #e4cd03;
+    color: whitesmoke;
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 100%;
+
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    border: none;
+    border-radius: 0.25rem;
+}
+
+.button:hover {
+    background-color: #a0931b;
+}
+
+.button:active {
+    background-color: #033444;
+}
